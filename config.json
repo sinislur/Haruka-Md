@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["6289688206739@s.whatsapp.net","6289688206739@s.whatsapp.net"],
+    "ownerName": "⚔️ 𝗪 𝗔 𝗜 𝗙 𝗨 - 𝗕 𝗢 𝗧 ⚔️",
+    "instagram" : "https://youtube.com/@ukosamasomoni1956",
+    "gcwa" : "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT",
+    "botName": "W I L Y 🛡️",
+    "footer": "𝗪 𝗔 𝗜 𝗙 𝗨 - 𝗕 𝗢 𝗧",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Dq4Z6N8K",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 60,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
