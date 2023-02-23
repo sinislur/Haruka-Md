@@ -16,7 +16,7 @@
     "baileys-md"
   ],
   "author": "ZeeoneOfc",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys@6.0.7",
     "@adiwajshing/keyed-db": "^0.2.4",
